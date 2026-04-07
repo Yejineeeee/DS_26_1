@@ -1,0 +1,5619 @@
+{
+    "id": 2120699,
+    "file": "video_2120699_1900641.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 302.73,
+        "fps": 30,
+        "frames": 9082,
+        "created": "Sat Oct 10 11:01:08 2020"
+    },
+    "events": [
+        {
+            "name": "폭행",
+            "start_time": 161.68,
+            "duration": 31.32
+        }
+    ],
+    "frames": [
+        {
+            "number": 4845,
+            "image": "frame_4845.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3118,
+                        "y": 649,
+                        "width": 117,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2992,
+                        "y": 910,
+                        "width": 297,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4849,
+            "image": "frame_4849.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3094,
+                        "y": 652,
+                        "width": 135,
+                        "height": 283
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3005,
+                        "y": 882,
+                        "width": 292,
+                        "height": 265
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4854,
+            "image": "frame_4854.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3070,
+                        "y": 652,
+                        "width": 154,
+                        "height": 293
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 839,
+                        "width": 281,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4859,
+            "image": "frame_4859.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2983,
+                        "y": 649,
+                        "width": 230,
+                        "height": 417
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3027,
+                        "y": 804,
+                        "width": 267,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4864,
+            "image": "frame_4864.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2961,
+                        "y": 647,
+                        "width": 233,
+                        "height": 424
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3014,
+                        "y": 779,
+                        "width": 267,
+                        "height": 359
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4869,
+            "image": "frame_4869.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2958,
+                        "y": 639,
+                        "width": 213,
+                        "height": 434
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3040,
+                        "y": 753,
+                        "width": 219,
+                        "height": 388
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4874,
+            "image": "frame_4874.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2959,
+                        "y": 635,
+                        "width": 202,
+                        "height": 435
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3037,
+                        "y": 727,
+                        "width": 205,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4879,
+            "image": "frame_4879.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2959,
+                        "y": 635,
+                        "width": 184,
+                        "height": 435
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3035,
+                        "y": 714,
+                        "width": 197,
+                        "height": 423
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4884,
+            "image": "frame_4884.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2954,
+                        "y": 636,
+                        "width": 174,
+                        "height": 433
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3030,
+                        "y": 712,
+                        "width": 197,
+                        "height": 432
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4889,
+            "image": "frame_4889.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2951,
+                        "y": 640,
+                        "width": 165,
+                        "height": 427
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2997,
+                        "y": 698,
+                        "width": 223,
+                        "height": 576
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4894,
+            "image": "frame_4894.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2933,
+                        "y": 642,
+                        "width": 180,
+                        "height": 427
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2994,
+                        "y": 698,
+                        "width": 223,
+                        "height": 546
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4899,
+            "image": "frame_4899.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2904,
+                        "y": 644,
+                        "width": 212,
+                        "height": 427
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 702,
+                        "width": 205,
+                        "height": 494
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4904,
+            "image": "frame_4904.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2866,
+                        "y": 649,
+                        "width": 258,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3034,
+                        "y": 701,
+                        "width": 195,
+                        "height": 494
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4909,
+            "image": "frame_4909.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2896,
+                        "y": 650,
+                        "width": 219,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3043,
+                        "y": 697,
+                        "width": 194,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4914,
+            "image": "frame_4914.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2912,
+                        "y": 653,
+                        "width": 186,
+                        "height": 415
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3044,
+                        "y": 697,
+                        "width": 202,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4919,
+            "image": "frame_4919.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2908,
+                        "y": 655,
+                        "width": 173,
+                        "height": 413
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3045,
+                        "y": 691,
+                        "width": 202,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4924,
+            "image": "frame_4924.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2909,
+                        "y": 655,
+                        "width": 160,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3047,
+                        "y": 689,
+                        "width": 192,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4929,
+            "image": "frame_4929.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2911,
+                        "y": 656,
+                        "width": 156,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3025,
+                        "y": 688,
+                        "width": 198,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4934,
+            "image": "frame_4934.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2911,
+                        "y": 656,
+                        "width": 148,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3014,
+                        "y": 686,
+                        "width": 187,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4939,
+            "image": "frame_4939.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2859,
+                        "y": 643,
+                        "width": 166,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2985,
+                        "y": 679,
+                        "width": 209,
+                        "height": 491
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4944,
+            "image": "frame_4944.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2789,
+                        "y": 636,
+                        "width": 184,
+                        "height": 437
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2973,
+                        "y": 680,
+                        "width": 230,
+                        "height": 491
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4949,
+            "image": "frame_4949.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2780,
+                        "y": 624,
+                        "width": 157,
+                        "height": 486
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2983,
+                        "y": 684,
+                        "width": 208,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4954,
+            "image": "frame_4954.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2701,
+                        "y": 611,
+                        "width": 197,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2990,
+                        "y": 682,
+                        "width": 185,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4959,
+            "image": "frame_4959.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2639,
+                        "y": 614,
+                        "width": 224,
+                        "height": 449
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2991,
+                        "y": 677,
+                        "width": 194,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4964,
+            "image": "frame_4964.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2638,
+                        "y": 616,
+                        "width": 210,
+                        "height": 433
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2974,
+                        "y": 668,
+                        "width": 211,
+                        "height": 502
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4969,
+            "image": "frame_4969.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2640,
+                        "y": 606,
+                        "width": 210,
+                        "height": 453
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2946,
+                        "y": 670,
+                        "width": 189,
+                        "height": 502
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4974,
+            "image": "frame_4974.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2642,
+                        "y": 614,
+                        "width": 235,
+                        "height": 461
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2931,
+                        "y": 663,
+                        "width": 191,
+                        "height": 510
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4979,
+            "image": "frame_4979.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2657,
+                        "y": 617,
+                        "width": 324,
+                        "height": 461
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2929,
+                        "y": 662,
+                        "width": 184,
+                        "height": 510
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4984,
+            "image": "frame_4984.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2713,
+                        "y": 624,
+                        "width": 324,
+                        "height": 461
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2947,
+                        "y": 649,
+                        "width": 154,
+                        "height": 514
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4989,
+            "image": "frame_4989.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2747,
+                        "y": 634,
+                        "width": 280,
+                        "height": 482
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2965,
+                        "y": 642,
+                        "width": 124,
+                        "height": 514
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4994,
+            "image": "frame_4994.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2748,
+                        "y": 634,
+                        "width": 273,
+                        "height": 482
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2970,
+                        "y": 644,
+                        "width": 150,
+                        "height": 470
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4999,
+            "image": "frame_4999.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2749,
+                        "y": 625,
+                        "width": 334,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2957,
+                        "y": 676,
+                        "width": 224,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5004,
+            "image": "frame_5004.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2749,
+                        "y": 625,
+                        "width": 316,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2999,
+                        "y": 676,
+                        "width": 221,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5009,
+            "image": "frame_5009.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2749,
+                        "y": 618,
+                        "width": 233,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3076,
+                        "y": 676,
+                        "width": 177,
+                        "height": 474
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5014,
+            "image": "frame_5014.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2745,
+                        "y": 615,
+                        "width": 166,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3102,
+                        "y": 686,
+                        "width": 174,
+                        "height": 486
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5019,
+            "image": "frame_5019.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2748,
+                        "y": 617,
+                        "width": 166,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3123,
+                        "y": 680,
+                        "width": 174,
+                        "height": 488
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5024,
+            "image": "frame_5024.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2747,
+                        "y": 622,
+                        "width": 179,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3153,
+                        "y": 682,
+                        "width": 159,
+                        "height": 483
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5029,
+            "image": "frame_5029.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2747,
+                        "y": 627,
+                        "width": 194,
+                        "height": 485
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3150,
+                        "y": 685,
+                        "width": 164,
+                        "height": 483
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5034,
+            "image": "frame_5034.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2765,
+                        "y": 630,
+                        "width": 211,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3138,
+                        "y": 689,
+                        "width": 171,
+                        "height": 486
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5039,
+            "image": "frame_5039.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2765,
+                        "y": 630,
+                        "width": 211,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3138,
+                        "y": 689,
+                        "width": 150,
+                        "height": 486
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5044,
+            "image": "frame_5044.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2815,
+                        "y": 631,
+                        "width": 174,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3106,
+                        "y": 686,
+                        "width": 168,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5049,
+            "image": "frame_5049.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2813,
+                        "y": 635,
+                        "width": 189,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3024,
+                        "y": 685,
+                        "width": 230,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5054,
+            "image": "frame_5054.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2817,
+                        "y": 636,
+                        "width": 195,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3001,
+                        "y": 685,
+                        "width": 224,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5059,
+            "image": "frame_5059.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2819,
+                        "y": 638,
+                        "width": 199,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2980,
+                        "y": 685,
+                        "width": 212,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5064,
+            "image": "frame_5064.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2819,
+                        "y": 636,
+                        "width": 167,
+                        "height": 478
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2951,
+                        "y": 668,
+                        "width": 221,
+                        "height": 493
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5069,
+            "image": "frame_5069.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2756,
+                        "y": 626,
+                        "width": 167,
+                        "height": 488
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2897,
+                        "y": 660,
+                        "width": 259,
+                        "height": 481
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5074,
+            "image": "frame_5074.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2655,
+                        "y": 632,
+                        "width": 238,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2907,
+                        "y": 654,
+                        "width": 226,
+                        "height": 481
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5079,
+            "image": "frame_5079.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2650,
+                        "y": 605,
+                        "width": 201,
+                        "height": 484
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2965,
+                        "y": 654,
+                        "width": 152,
+                        "height": 481
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5084,
+            "image": "frame_5084.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2602,
+                        "y": 598,
+                        "width": 186,
+                        "height": 461
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2946,
+                        "y": 654,
+                        "width": 166,
+                        "height": 480
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5089,
+            "image": "frame_5089.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2552,
+                        "y": 598,
+                        "width": 211,
+                        "height": 452
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2937,
+                        "y": 650,
+                        "width": 136,
+                        "height": 487
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5094,
+            "image": "frame_5094.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2551,
+                        "y": 598,
+                        "width": 207,
+                        "height": 449
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2934,
+                        "y": 649,
+                        "width": 123,
+                        "height": 481
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5099,
+            "image": "frame_5099.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2556,
+                        "y": 597,
+                        "width": 202,
+                        "height": 454
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2876,
+                        "y": 648,
+                        "width": 170,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5104,
+            "image": "frame_5104.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2555,
+                        "y": 600,
+                        "width": 217,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2852,
+                        "y": 644,
+                        "width": 182,
+                        "height": 422
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5109,
+            "image": "frame_5109.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2585,
+                        "y": 605,
+                        "width": 235,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2845,
+                        "y": 642,
+                        "width": 178,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5114,
+            "image": "frame_5114.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2649,
+                        "y": 607,
+                        "width": 275,
+                        "height": 481
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2843,
+                        "y": 640,
+                        "width": 165,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5119,
+            "image": "frame_5119.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2655,
+                        "y": 619,
+                        "width": 301,
+                        "height": 496
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2847,
+                        "y": 635,
+                        "width": 155,
+                        "height": 464
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5124,
+            "image": "frame_5124.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2667,
+                        "y": 624,
+                        "width": 278,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2845,
+                        "y": 635,
+                        "width": 160,
+                        "height": 464
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5129,
+            "image": "frame_5129.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2660,
+                        "y": 617,
+                        "width": 303,
+                        "height": 500
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2845,
+                        "y": 639,
+                        "width": 177,
+                        "height": 502
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5134,
+            "image": "frame_5134.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2654,
+                        "y": 614,
+                        "width": 333,
+                        "height": 500
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2845,
+                        "y": 651,
+                        "width": 214,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5139,
+            "image": "frame_5139.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2653,
+                        "y": 613,
+                        "width": 260,
+                        "height": 501
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2863,
+                        "y": 650,
+                        "width": 221,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5144,
+            "image": "frame_5144.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2653,
+                        "y": 611,
+                        "width": 225,
+                        "height": 497
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2871,
+                        "y": 647,
+                        "width": 217,
+                        "height": 499
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5149,
+            "image": "frame_5149.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2653,
+                        "y": 613,
+                        "width": 225,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2852,
+                        "y": 639,
+                        "width": 247,
+                        "height": 507
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5154,
+            "image": "frame_5154.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2673,
+                        "y": 613,
+                        "width": 204,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2870,
+                        "y": 631,
+                        "width": 180,
+                        "height": 505
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5159,
+            "image": "frame_5159.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2688,
+                        "y": 614,
+                        "width": 196,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2843,
+                        "y": 629,
+                        "width": 189,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5164,
+            "image": "frame_5164.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2677,
+                        "y": 613,
+                        "width": 188,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2807,
+                        "y": 629,
+                        "width": 222,
+                        "height": 436
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5169,
+            "image": "frame_5169.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2677,
+                        "y": 600,
+                        "width": 158,
+                        "height": 494
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2794,
+                        "y": 629,
+                        "width": 222,
+                        "height": 489
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5174,
+            "image": "frame_5174.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2585,
+                        "y": 595,
+                        "width": 191,
+                        "height": 469
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2795,
+                        "y": 632,
+                        "width": 209,
+                        "height": 483
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5179,
+            "image": "frame_5179.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2510,
+                        "y": 599,
+                        "width": 247,
+                        "height": 458
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2813,
+                        "y": 629,
+                        "width": 169,
+                        "height": 486
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5184,
+            "image": "frame_5184.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2502,
+                        "y": 604,
+                        "width": 239,
+                        "height": 450
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2810,
+                        "y": 626,
+                        "width": 163,
+                        "height": 490
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5189,
+            "image": "frame_5189.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2502,
+                        "y": 594,
+                        "width": 203,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2797,
+                        "y": 622,
+                        "width": 151,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5194,
+            "image": "frame_5194.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2501,
+                        "y": 587,
+                        "width": 163,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2742,
+                        "y": 620,
+                        "width": 194,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5199,
+            "image": "frame_5199.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2471,
+                        "y": 586,
+                        "width": 173,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2741,
+                        "y": 617,
+                        "width": 182,
+                        "height": 497
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5204,
+            "image": "frame_5204.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2442,
+                        "y": 590,
+                        "width": 220,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2737,
+                        "y": 608,
+                        "width": 177,
+                        "height": 506
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5209,
+            "image": "frame_5209.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2441,
+                        "y": 590,
+                        "width": 287,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2739,
+                        "y": 604,
+                        "width": 171,
+                        "height": 506
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5214,
+            "image": "frame_5214.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2440,
+                        "y": 607,
+                        "width": 343,
+                        "height": 465
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2739,
+                        "y": 603,
+                        "width": 171,
+                        "height": 511
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5219,
+            "image": "frame_5219.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2460,
+                        "y": 623,
+                        "width": 401,
+                        "height": 458
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2743,
+                        "y": 603,
+                        "width": 171,
+                        "height": 508
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5224,
+            "image": "frame_5224.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2560,
+                        "y": 633,
+                        "width": 337,
+                        "height": 450
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2740,
+                        "y": 609,
+                        "width": 188,
+                        "height": 501
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5229,
+            "image": "frame_5229.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2572,
+                        "y": 646,
+                        "width": 331,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2744,
+                        "y": 626,
+                        "width": 218,
+                        "height": 485
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5234,
+            "image": "frame_5234.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2608,
+                        "y": 646,
+                        "width": 375,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2819,
+                        "y": 657,
+                        "width": 222,
+                        "height": 452
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5239,
+            "image": "frame_5239.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2671,
+                        "y": 648,
+                        "width": 375,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2921,
+                        "y": 724,
+                        "width": 211,
+                        "height": 377
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5244,
+            "image": "frame_5244.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2746,
+                        "y": 654,
+                        "width": 275,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2956,
+                        "y": 822,
+                        "width": 256,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5249,
+            "image": "frame_5249.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2749,
+                        "y": 652,
+                        "width": 268,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3010,
+                        "y": 927,
+                        "width": 283,
+                        "height": 248
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5254,
+            "image": "frame_5254.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2799,
+                        "y": 652,
+                        "width": 252,
+                        "height": 436
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3080,
+                        "y": 929,
+                        "width": 299,
+                        "height": 255
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5259,
+            "image": "frame_5259.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2834,
+                        "y": 653,
+                        "width": 246,
+                        "height": 434
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3143,
+                        "y": 922,
+                        "width": 299,
+                        "height": 267
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5264,
+            "image": "frame_5264.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2832,
+                        "y": 654,
+                        "width": 273,
+                        "height": 436
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3183,
+                        "y": 926,
+                        "width": 292,
+                        "height": 260
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5269,
+            "image": "frame_5269.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2912,
+                        "y": 643,
+                        "width": 246,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3208,
+                        "y": 926,
+                        "width": 297,
+                        "height": 249
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5274,
+            "image": "frame_5274.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2996,
+                        "y": 647,
+                        "width": 194,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3219,
+                        "y": 930,
+                        "width": 297,
+                        "height": 246
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5279,
+            "image": "frame_5279.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2998,
+                        "y": 660,
+                        "width": 217,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3225,
+                        "y": 931,
+                        "width": 291,
+                        "height": 247
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5284,
+            "image": "frame_5284.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3020,
+                        "y": 672,
+                        "width": 242,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3228,
+                        "y": 921,
+                        "width": 291,
+                        "height": 253
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5289,
+            "image": "frame_5289.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3079,
+                        "y": 668,
+                        "width": 208,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3255,
+                        "y": 905,
+                        "width": 264,
+                        "height": 268
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5294,
+            "image": "frame_5294.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3105,
+                        "y": 669,
+                        "width": 202,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3255,
+                        "y": 904,
+                        "width": 264,
+                        "height": 268
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5299,
+            "image": "frame_5299.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3107,
+                        "y": 673,
+                        "width": 209,
+                        "height": 446
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3228,
+                        "y": 901,
+                        "width": 279,
+                        "height": 268
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5304,
+            "image": "frame_5304.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3121,
+                        "y": 667,
+                        "width": 205,
+                        "height": 453
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3225,
+                        "y": 835,
+                        "width": 231,
+                        "height": 309
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5309,
+            "image": "frame_5309.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3105,
+                        "y": 667,
+                        "width": 207,
+                        "height": 445
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3227,
+                        "y": 782,
+                        "width": 196,
+                        "height": 366
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5314,
+            "image": "frame_5314.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3091,
+                        "y": 663,
+                        "width": 190,
+                        "height": 445
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3223,
+                        "y": 729,
+                        "width": 164,
+                        "height": 418
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5319,
+            "image": "frame_5319.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3064,
+                        "y": 650,
+                        "width": 166,
+                        "height": 458
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3187,
+                        "y": 695,
+                        "width": 174,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5324,
+            "image": "frame_5324.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2973,
+                        "y": 653,
+                        "width": 178,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3096,
+                        "y": 685,
+                        "width": 264,
+                        "height": 467
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5329,
+            "image": "frame_5329.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2856,
+                        "y": 640,
+                        "width": 215,
+                        "height": 419
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3013,
+                        "y": 669,
+                        "width": 315,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5334,
+            "image": "frame_5334.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2756,
+                        "y": 640,
+                        "width": 185,
+                        "height": 395
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3019,
+                        "y": 659,
+                        "width": 211,
+                        "height": 453
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5339,
+            "image": "frame_5339.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2618,
+                        "y": 601,
+                        "width": 188,
+                        "height": 435
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2989,
+                        "y": 662,
+                        "width": 226,
+                        "height": 433
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5344,
+            "image": "frame_5344.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2502,
+                        "y": 600,
+                        "width": 233,
+                        "height": 419
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2989,
+                        "y": 648,
+                        "width": 190,
+                        "height": 447
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5349,
+            "image": "frame_5349.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2449,
+                        "y": 564,
+                        "width": 240,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2898,
+                        "y": 627,
+                        "width": 190,
+                        "height": 469
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5354,
+            "image": "frame_5354.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2348,
+                        "y": 569,
+                        "width": 266,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2810,
+                        "y": 623,
+                        "width": 256,
+                        "height": 473
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5359,
+            "image": "frame_5359.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2344,
+                        "y": 546,
+                        "width": 172,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2799,
+                        "y": 612,
+                        "width": 216,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5364,
+            "image": "frame_5364.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2318,
+                        "y": 542,
+                        "width": 153,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2785,
+                        "y": 592,
+                        "width": 151,
+                        "height": 464
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5369,
+            "image": "frame_5369.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2285,
+                        "y": 540,
+                        "width": 176,
+                        "height": 433
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2657,
+                        "y": 594,
+                        "width": 226,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5374,
+            "image": "frame_5374.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2287,
+                        "y": 534,
+                        "width": 176,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2642,
+                        "y": 591,
+                        "width": 219,
+                        "height": 445
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5379,
+            "image": "frame_5379.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2287,
+                        "y": 536,
+                        "width": 176,
+                        "height": 437
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2641,
+                        "y": 571,
+                        "width": 130,
+                        "height": 462
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5384,
+            "image": "frame_5384.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2288,
+                        "y": 539,
+                        "width": 170,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2530,
+                        "y": 571,
+                        "width": 196,
+                        "height": 462
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5389,
+            "image": "frame_5389.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2318,
+                        "y": 540,
+                        "width": 153,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2500,
+                        "y": 561,
+                        "width": 209,
+                        "height": 470
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5394,
+            "image": "frame_5394.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2363,
+                        "y": 540,
+                        "width": 136,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2447,
+                        "y": 550,
+                        "width": 191,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5399,
+            "image": "frame_5399.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2353,
+                        "y": 540,
+                        "width": 153,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2439,
+                        "y": 550,
+                        "width": 165,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5404,
+            "image": "frame_5404.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2273,
+                        "y": 536,
+                        "width": 183,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2368,
+                        "y": 551,
+                        "width": 232,
+                        "height": 456
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5409,
+            "image": "frame_5409.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2259,
+                        "y": 529,
+                        "width": 183,
+                        "height": 422
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2392,
+                        "y": 552,
+                        "width": 194,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5414,
+            "image": "frame_5414.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2152,
+                        "y": 510,
+                        "width": 183,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2425,
+                        "y": 552,
+                        "width": 159,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5419,
+            "image": "frame_5419.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2129,
+                        "y": 525,
+                        "width": 177,
+                        "height": 388
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2449,
+                        "y": 552,
+                        "width": 137,
+                        "height": 455
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5424,
+            "image": "frame_5424.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2126,
+                        "y": 503,
+                        "width": 119,
+                        "height": 388
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2419,
+                        "y": 550,
+                        "width": 198,
+                        "height": 458
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5429,
+            "image": "frame_5429.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2118,
+                        "y": 498,
+                        "width": 129,
+                        "height": 393
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2387,
+                        "y": 546,
+                        "width": 179,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5434,
+            "image": "frame_5434.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2125,
+                        "y": 498,
+                        "width": 146,
+                        "height": 393
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2375,
+                        "y": 546,
+                        "width": 159,
+                        "height": 460
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5439,
+            "image": "frame_5439.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2129,
+                        "y": 498,
+                        "width": 158,
+                        "height": 393
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2340,
+                        "y": 534,
+                        "width": 182,
+                        "height": 467
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5444,
+            "image": "frame_5444.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2136,
+                        "y": 498,
+                        "width": 174,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2326,
+                        "y": 528,
+                        "width": 161,
+                        "height": 454
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5449,
+            "image": "frame_5449.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2169,
+                        "y": 499,
+                        "width": 176,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2327,
+                        "y": 528,
+                        "width": 149,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5454,
+            "image": "frame_5454.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2187,
+                        "y": 508,
+                        "width": 188,
+                        "height": 401
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2299,
+                        "y": 526,
+                        "width": 162,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5459,
+            "image": "frame_5459.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2195,
+                        "y": 511,
+                        "width": 165,
+                        "height": 401
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2300,
+                        "y": 525,
+                        "width": 142,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5464,
+            "image": "frame_5464.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2209,
+                        "y": 516,
+                        "width": 156,
+                        "height": 397
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2262,
+                        "y": 525,
+                        "width": 191,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5469,
+            "image": "frame_5469.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2209,
+                        "y": 529,
+                        "width": 180,
+                        "height": 382
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2261,
+                        "y": 525,
+                        "width": 229,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5474,
+            "image": "frame_5474.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2262,
+                        "y": 522,
+                        "width": 186,
+                        "height": 389
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2295,
+                        "y": 531,
+                        "width": 209,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5479,
+            "image": "frame_5479.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2357,
+                        "y": 523,
+                        "width": 165,
+                        "height": 396
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2338,
+                        "y": 533,
+                        "width": 212,
+                        "height": 437
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5484,
+            "image": "frame_5484.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2359,
+                        "y": 538,
+                        "width": 213,
+                        "height": 383
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2423,
+                        "y": 538,
+                        "width": 169,
+                        "height": 431
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5489,
+            "image": "frame_5489.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2466,
+                        "y": 550,
+                        "width": 165,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2451,
+                        "y": 538,
+                        "width": 169,
+                        "height": 431
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5494,
+            "image": "frame_5494.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2535,
+                        "y": 543,
+                        "width": 147,
+                        "height": 375
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2469,
+                        "y": 539,
+                        "width": 192,
+                        "height": 423
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5499,
+            "image": "frame_5499.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2540,
+                        "y": 558,
+                        "width": 207,
+                        "height": 380
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2531,
+                        "y": 530,
+                        "width": 190,
+                        "height": 433
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5504,
+            "image": "frame_5504.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2658,
+                        "y": 543,
+                        "width": 123,
+                        "height": 396
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2547,
+                        "y": 535,
+                        "width": 184,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5509,
+            "image": "frame_5509.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2694,
+                        "y": 557,
+                        "width": 151,
+                        "height": 382
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2546,
+                        "y": 543,
+                        "width": 209,
+                        "height": 422
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5514,
+            "image": "frame_5514.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2722,
+                        "y": 574,
+                        "width": 131,
+                        "height": 375
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2567,
+                        "y": 543,
+                        "width": 197,
+                        "height": 422
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5519,
+            "image": "frame_5519.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2728,
+                        "y": 574,
+                        "width": 150,
+                        "height": 407
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2599,
+                        "y": 546,
+                        "width": 190,
+                        "height": 418
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5524,
+            "image": "frame_5524.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2732,
+                        "y": 587,
+                        "width": 203,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2619,
+                        "y": 546,
+                        "width": 190,
+                        "height": 418
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5529,
+            "image": "frame_5529.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2732,
+                        "y": 587,
+                        "width": 208,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2647,
+                        "y": 546,
+                        "width": 182,
+                        "height": 418
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5534,
+            "image": "frame_5534.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2728,
+                        "y": 587,
+                        "width": 220,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2648,
+                        "y": 546,
+                        "width": 182,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5539,
+            "image": "frame_5539.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2717,
+                        "y": 599,
+                        "width": 246,
+                        "height": 425
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2648,
+                        "y": 546,
+                        "width": 154,
+                        "height": 420
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5544,
+            "image": "frame_5544.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2714,
+                        "y": 591,
+                        "width": 198,
+                        "height": 432
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2614,
+                        "y": 546,
+                        "width": 178,
+                        "height": 412
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5549,
+            "image": "frame_5549.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2690,
+                        "y": 591,
+                        "width": 173,
+                        "height": 432
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2584,
+                        "y": 546,
+                        "width": 199,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5554,
+            "image": "frame_5554.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2661,
+                        "y": 591,
+                        "width": 198,
+                        "height": 441
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2580,
+                        "y": 540,
+                        "width": 187,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5559,
+            "image": "frame_5559.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2656,
+                        "y": 578,
+                        "width": 142,
+                        "height": 454
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2580,
+                        "y": 540,
+                        "width": 150,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5564,
+            "image": "frame_5564.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2629,
+                        "y": 578,
+                        "width": 127,
+                        "height": 454
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2580,
+                        "y": 540,
+                        "width": 117,
+                        "height": 398
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5569,
+            "image": "frame_5569.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2563,
+                        "y": 583,
+                        "width": 161,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2589,
+                        "y": 545,
+                        "width": 136,
+                        "height": 410
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5574,
+            "image": "frame_5574.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2525,
+                        "y": 575,
+                        "width": 149,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2596,
+                        "y": 549,
+                        "width": 120,
+                        "height": 424
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5579,
+            "image": "frame_5579.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2406,
+                        "y": 564,
+                        "width": 281,
+                        "height": 447
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2596,
+                        "y": 556,
+                        "width": 113,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5584,
+            "image": "frame_5584.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2396,
+                        "y": 565,
+                        "width": 268,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2564,
+                        "y": 556,
+                        "width": 134,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5589,
+            "image": "frame_5589.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2385,
+                        "y": 557,
+                        "width": 257,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2528,
+                        "y": 554,
+                        "width": 152,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5594,
+            "image": "frame_5594.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2311,
+                        "y": 557,
+                        "width": 273,
+                        "height": 440
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2530,
+                        "y": 546,
+                        "width": 142,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5599,
+            "image": "frame_5599.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2285,
+                        "y": 555,
+                        "width": 259,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2476,
+                        "y": 540,
+                        "width": 182,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5604,
+            "image": "frame_5604.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2262,
+                        "y": 555,
+                        "width": 233,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2493,
+                        "y": 540,
+                        "width": 148,
+                        "height": 456
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5609,
+            "image": "frame_5609.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2205,
+                        "y": 567,
+                        "width": 271,
+                        "height": 419
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2457,
+                        "y": 546,
+                        "width": 179,
+                        "height": 456
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5614,
+            "image": "frame_5614.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2181,
+                        "y": 572,
+                        "width": 326,
+                        "height": 380
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2421,
+                        "y": 549,
+                        "width": 196,
+                        "height": 456
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5619,
+            "image": "frame_5619.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2188,
+                        "y": 572,
+                        "width": 326,
+                        "height": 373
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2439,
+                        "y": 553,
+                        "width": 173,
+                        "height": 449
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5624,
+            "image": "frame_5624.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2196,
+                        "y": 579,
+                        "width": 342,
+                        "height": 365
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2426,
+                        "y": 589,
+                        "width": 205,
+                        "height": 423
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5629,
+            "image": "frame_5629.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2235,
+                        "y": 596,
+                        "width": 287,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2423,
+                        "y": 649,
+                        "width": 320,
+                        "height": 361
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5634,
+            "image": "frame_5634.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2294,
+                        "y": 596,
+                        "width": 183,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2479,
+                        "y": 736,
+                        "width": 307,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5639,
+            "image": "frame_5639.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2264,
+                        "y": 553,
+                        "width": 178,
+                        "height": 393
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2546,
+                        "y": 829,
+                        "width": 234,
+                        "height": 262
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5644,
+            "image": "frame_5644.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2254,
+                        "y": 536,
+                        "width": 151,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2564,
+                        "y": 870,
+                        "width": 300,
+                        "height": 259
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5649,
+            "image": "frame_5649.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2208,
+                        "y": 514,
+                        "width": 147,
+                        "height": 361
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2570,
+                        "y": 834,
+                        "width": 298,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5654,
+            "image": "frame_5654.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2130,
+                        "y": 496,
+                        "width": 146,
+                        "height": 330
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2606,
+                        "y": 830,
+                        "width": 261,
+                        "height": 334
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5659,
+            "image": "frame_5659.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2045,
+                        "y": 472,
+                        "width": 194,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2624,
+                        "y": 839,
+                        "width": 239,
+                        "height": 334
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5664,
+            "image": "frame_5664.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2015,
+                        "y": 462,
+                        "width": 158,
+                        "height": 332
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2626,
+                        "y": 853,
+                        "width": 237,
+                        "height": 320
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5669,
+            "image": "frame_5669.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1965,
+                        "y": 444,
+                        "width": 146,
+                        "height": 338
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2609,
+                        "y": 867,
+                        "width": 255,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5674,
+            "image": "frame_5674.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1899,
+                        "y": 431,
+                        "width": 149,
+                        "height": 306
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2591,
+                        "y": 888,
+                        "width": 262,
+                        "height": 273
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5679,
+            "image": "frame_5679.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1863,
+                        "y": 436,
+                        "width": 128,
+                        "height": 296
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2593,
+                        "y": 919,
+                        "width": 237,
+                        "height": 227
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5684,
+            "image": "frame_5684.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1832,
+                        "y": 431,
+                        "width": 147,
+                        "height": 265
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2585,
+                        "y": 899,
+                        "width": 230,
+                        "height": 227
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5689,
+            "image": "frame_5689.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1752,
+                        "y": 424,
+                        "width": 173,
+                        "height": 269
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2581,
+                        "y": 894,
+                        "width": 216,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5694,
+            "image": "frame_5694.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1698,
+                        "y": 420,
+                        "width": 107,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2556,
+                        "y": 889,
+                        "width": 236,
+                        "height": 234
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5699,
+            "image": "frame_5699.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1605,
+                        "y": 408,
+                        "width": 178,
+                        "height": 246
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2555,
+                        "y": 846,
+                        "width": 247,
+                        "height": 270
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5704,
+            "image": "frame_5704.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1548,
+                        "y": 413,
+                        "width": 132,
+                        "height": 249
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2549,
+                        "y": 767,
+                        "width": 268,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5709,
+            "image": "frame_5709.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1501,
+                        "y": 402,
+                        "width": 100,
+                        "height": 251
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2520,
+                        "y": 686,
+                        "width": 276,
+                        "height": 389
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5714,
+            "image": "frame_5714.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1454,
+                        "y": 403,
+                        "width": 84,
+                        "height": 241
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2410,
+                        "y": 644,
+                        "width": 301,
+                        "height": 399
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5719,
+            "image": "frame_5719.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1406,
+                        "y": 392,
+                        "width": 106,
+                        "height": 242
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2339,
+                        "y": 626,
+                        "width": 320,
+                        "height": 381
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5724,
+            "image": "frame_5724.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1400,
+                        "y": 399,
+                        "width": 101,
+                        "height": 225
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2258,
+                        "y": 601,
+                        "width": 236,
+                        "height": 396
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5729,
+            "image": "frame_5729.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1388,
+                        "y": 389,
+                        "width": 109,
+                        "height": 222
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2174,
+                        "y": 560,
+                        "width": 240,
+                        "height": 362
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5734,
+            "image": "frame_5734.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1412,
+                        "y": 396,
+                        "width": 84,
+                        "height": 209
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2045,
+                        "y": 530,
+                        "width": 238,
+                        "height": 391
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5739,
+            "image": "frame_5739.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1421,
+                        "y": 382,
+                        "width": 96,
+                        "height": 221
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1954,
+                        "y": 507,
+                        "width": 177,
+                        "height": 366
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5744,
+            "image": "frame_5744.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1469,
+                        "y": 383,
+                        "width": 66,
+                        "height": 207
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1839,
+                        "y": 469,
+                        "width": 182,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5749,
+            "image": "frame_5749.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1487,
+                        "y": 375,
+                        "width": 48,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1772,
+                        "y": 458,
+                        "width": 104,
+                        "height": 348
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5754,
+            "image": "frame_5754.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1520,
+                        "y": 421,
+                        "width": 17,
+                        "height": 90
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1666,
+                        "y": 430,
+                        "width": 166,
+                        "height": 322
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5759,
+            "image": "frame_5759.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1575,
+                        "y": 428,
+                        "width": 161,
+                        "height": 317
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5764,
+            "image": "frame_5764.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1551,
+                        "y": 409,
+                        "width": 125,
+                        "height": 283
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5769,
+            "image": "frame_5769.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1509,
+                        "y": 402,
+                        "width": 118,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5774,
+            "image": "frame_5774.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1445,
+                        "y": 396,
+                        "width": 136,
+                        "height": 262
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5779,
+            "image": "frame_5779.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1435,
+                        "y": 389,
+                        "width": 139,
+                        "height": 253
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5784,
+            "image": "frame_5784.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1443,
+                        "y": 389,
+                        "width": 94,
+                        "height": 247
+                    },
+                    "category": {
+                        "code": "assault",
+                        "attributes": []
+                    }
+                }
+            ]
+        }
+    ]
+}
